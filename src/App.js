@@ -1,10 +1,12 @@
-import React from 'react';
+import React, {Fragment} from 'react';
+import TopBanner from "./components/TopBanner/TopBanner";
 
 function App() {
   return (
-    <div >
+    <Fragment>
+      <TopBanner></TopBanner>
 
-    </div>
+    </Fragment>
   );
 }
 

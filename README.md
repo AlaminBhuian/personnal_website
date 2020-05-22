@@ -1,3 +1,6 @@
+This is my very first try of react. So why not start it with my personal website(I don't own any).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
