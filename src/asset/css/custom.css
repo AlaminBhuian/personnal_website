@@ -27,3 +27,32 @@
     color: #fff;
     font-size: 24px;
 }
+.serviceCard{
+    margin: 5px 5px 5px 5px;
+    height: 20em;
+    padding: 60px 30px 60px 30px;
+    box-shadow: 0 0 4px 0 rgba(0,115,220,0.3);
+}
+
+.serviceCard:hover{
+    box-shadow: 0 0 8px 0 rgba(0,115,220,0.4);
+}
+.serviceTitle{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600;
+    margin: 3rem 0 2rem 0;
+    color: #4C9DED;
+}
+.serviceName{
+    margin-top: 1.2rem;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+.serviceDescription{
+    color: #7E7E7E;
+    margin-top: 1rem;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}

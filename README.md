@@ -1,9 +1,9 @@
-This is my very first try of react. So why not start it with my personal website(I don't own any).
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This is my very first try of react. So why not start with my personal website(I don't own any).
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
