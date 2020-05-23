@@ -68,3 +68,29 @@
     font-size: 24px;
     color: #00F !important;
 }
+.navBackGround{
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: rgba(0,0,0,0);
+}
+.navBackGroundScroll{
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: #FFFFFF;
+}
+.navItem{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: #ffffff !important;
+    font-size: 16px;
+}
+.navItemScroll{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: #000000 !important;
+    font-size: 16px;
+}
